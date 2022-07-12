@@ -1,0 +1,10 @@
+D:\Users\Jonathan\source\repos\Laurence\bin\Debug\Laurence.exe.config
+D:\Users\Jonathan\source\repos\Laurence\bin\Debug\Laurence.exe
+D:\Users\Jonathan\source\repos\Laurence\bin\Debug\Laurence.pdb
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Laurence.csproj.AssemblyReference.cache
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Laurence.Form1.resources
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Laurence.Properties.Resources.resources
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Laurence.csproj.GenerateResource.cache
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Laurence.csproj.CoreCompileInputs.cache
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Laurence.exe
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Laurence.pdb

@@ -1,0 +1,11 @@
+D:\Users\Jonathan\source\repos\Laurence\bin\Debug\Get_picture_link.exe.config
+D:\Users\Jonathan\source\repos\Laurence\bin\Debug\Get_picture_link.exe
+D:\Users\Jonathan\source\repos\Laurence\bin\Debug\Get_picture_link.pdb
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Get_picture_link.csproj.AssemblyReference.cache
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Laurence.Form1.resources
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Get_picture_link.Properties.Resources.resources
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Get_picture_link.csproj.GenerateResource.cache
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Get_picture_link.csproj.CoreCompileInputs.cache
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Get_picture_link.exe
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Get_picture_link.pdb
+D:\Users\Jonathan\source\repos\Laurence\obj\Debug\Get_picture_link.csproj.SuggestedBindingRedirects.cache
